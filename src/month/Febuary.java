@@ -8,6 +8,8 @@ public class Febuary {
 		System.out.println("I am Febuary");
 		System.out.println("I am Second Month");
 		System.out.println("I am having 28 days");
+		System.out.println("I am not Leap");
+
 	}
 
 }
